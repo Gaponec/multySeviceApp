@@ -59,5 +59,6 @@ configure (springProjects) {
 
   dependencies {
     compile 'org.springframework.boot:spring-boot-starter-webflux'
+    annotationProcessor 'org.projectlombok:lombok:1.16.16'
   }
 }

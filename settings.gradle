@@ -1,0 +1,3 @@
+rootProject.name = 'multySeviceApp'
+include 'city-service'
+include 'country-service'

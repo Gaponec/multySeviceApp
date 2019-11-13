@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/city-service/build/
+/city-service/build/classes/java/main/
+/country-service/build/
+/country-service/build/classes/java/main/
